@@ -1,1 +1,2 @@
 # python
+・Exercices with python
